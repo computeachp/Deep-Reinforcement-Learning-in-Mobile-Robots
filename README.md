@@ -34,8 +34,11 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 <p>sudo apt install python-rosdep</p>
 <p>sudo rosdep init</p>
 <p>rosdep update</p>
-
-
+<br>
+<h3>TurtleBot3 Paketlerini Kurun</h3>
+<p>$ sudo apt-get install ros-melodic-turtlebot3-msgs</p>
+<p>$ sudo apt-get install ros-melodic-turtlebot3</p>
+<p>$ echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc</p>
 
 
 
