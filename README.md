@@ -32,6 +32,8 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 <p><b>Bağımlıklları kurun</b></p>
 <p>sudo apt install python-rosdep python-rosinstall python-rosinstall-generator python-wstool build-essential</p>
 <p>sudo apt install python-rosdep</p>
+<p>sudo rosdep init</p>
+<p>rosdep update</p>
 
 
 
