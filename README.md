@@ -40,12 +40,13 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 <p>$ echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc</p>
 <p>mkdir -p ~/catkin_ws/src</p>
 <p>cd ~/catkin_ws/src/</p>
-$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/DynamixelSDK.git
-$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
-$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git
-$ cd ~/catkin_ws && catkin_make
-$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
-
+<p>
+  $ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/DynamixelSDK.git<br>
+  $ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git<br>
+  $ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git<br>
+  $ cd ~/catkin_ws && catkin_make<br>
+  $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+</p>
 
 
 
