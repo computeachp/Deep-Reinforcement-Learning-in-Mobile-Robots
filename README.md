@@ -34,12 +34,17 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 <p>sudo apt install python-rosdep</p>
 <p>sudo rosdep init</p>
 <p>rosdep update</p>
-<br>
 <h3>TurtleBot3 Paketlerini Kurun</h3>
 <p>$ sudo apt-get install ros-melodic-turtlebot3-msgs</p>
 <p>$ sudo apt-get install ros-melodic-turtlebot3</p>
 <p>$ echo "export TURTLEBOT3_MODEL=burger" >> ~/.bashrc</p>
-
+<p>mkdir -p ~/catkin_ws/src</p>
+<p>cd ~/catkin_ws/src/</p>
+$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/DynamixelSDK.git
+$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+$ git clone -b melodic-devel https://github.com/ROBOTIS-GIT/turtlebot3.git
+$ cd ~/catkin_ws && catkin_make
+$ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 
 
 
