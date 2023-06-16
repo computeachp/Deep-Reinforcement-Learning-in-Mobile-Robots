@@ -1,4 +1,4 @@
-# Deep-Reinforcement-Learning-in-Mobile-Robots
+# Mobile Robot Navigation with Deep Reinforcement Learning
 Autonomous Movement with Deep Reinforcement Learning in Mobile Robots
 
 Derin Pekiştirmeli Öğrenme ile Mobil Robotlarda Otonom Hareket
