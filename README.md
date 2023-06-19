@@ -14,7 +14,6 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
   <li>ROS Melodic</li>
   <li>Gazebo</li>
   <li>TurtleBot3 Package</li>
-  <li>Pekiştirmeli Öğrenme ROS&Gazebo çerçevesi için "<a href="">ROBOTIS Official GitHub</a>" teşekkürler</li>
 </ul>
 <h3>Ros Kurulumu:</h3>
 <p>sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'</p>
@@ -47,4 +46,5 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 </p>
 
 
-
+# Kaynaklar
+- Pekiştirmeli Öğrenme ROS&Gazebo çerçevesi için "<a href="">ROBOTIS Official GitHub</a>"
