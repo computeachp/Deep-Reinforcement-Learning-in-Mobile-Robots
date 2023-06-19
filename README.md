@@ -47,4 +47,4 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 
 
 # Kaynaklar
-- Pekiştirmeli Öğrenme ROS&Gazebo çerçevesi için "<a href="">ROBOTIS Official GitHub</a>"
+- Pekiştirmeli Öğrenme ROS&Gazebo çerçevesi için "<a href="https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning">ROBOTIS Official GitHub</a>"
