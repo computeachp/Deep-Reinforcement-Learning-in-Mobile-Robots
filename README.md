@@ -1,10 +1,6 @@
 # Derin Pekiştirmeli Öğrenme ile Mobil Robotlarda Otonom Hareket
 (Mobile Robot Navigation with Deep Reinforcement Learning)
 
-Autonomous Movement with Deep Reinforcement Learning in Mobile Robots
-
-Derin Pekiştirmeli Öğrenme ile Mobil Robotlarda Otonom Hareket
-
 Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otonom hareket planlaması ele alınmaktadır.
 <h3>Kullanılan Araçlar:</h3>
 <ul>
