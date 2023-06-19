@@ -47,4 +47,6 @@ Bu çalışma da, Derin Pekiştirmeli Öğrenme (DQN) ile mobil robotlarda otono
 
 
 # Kaynaklar
-- Pekiştirmeli Öğrenme ROS&Gazebo çerçevesi için "<a href="https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning">ROBOTIS Official GitHub</a>"
+- Playing Atari with Deep Reinforcement Learning (Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, Martin Riedmiller)
+- Deep Reinforcement Learning with Double Q-learning (Hado van Hasselt, Arthur Guez, David Silver)
+- ROS Packages for TurtleBot3 Machine Learning, <a href="https://github.com/ROBOTIS-GIT/turtlebot3_machine_learning">ROBOTIS Official GitHub</a>
