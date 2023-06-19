@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="turtlebot3_nav" name="dqn_agent_test" type="dqn_agent_test.py" output="screen" />
+  <node pkg="turtlebot3_nav" name="obstacle_move" type="moving_obstacle" output="screen" />
+</launch>
